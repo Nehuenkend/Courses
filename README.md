@@ -1,5 +1,5 @@
 # Courses
-I leave here the courses i finished, they have the Projects i did to get the certifications
+I leave here the courses i finished (with the Projects i did to get the certifications)
 
 ## FreeCodeCamp
 
